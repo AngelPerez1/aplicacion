@@ -35,6 +35,9 @@ h1 {
 .freecodecamp-logo {
   width: 400px;
   height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Lista de tareas */
